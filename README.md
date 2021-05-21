@@ -13,3 +13,10 @@ SO THAT I have quick access to their emails and GitHub profiles
 # Mock Up
 
 (./Assets/10-object-oriented-programming-homework-demo.png)
+
+## Features
+
+* JavaScript
+* Node.js
+* jest
+* npm
