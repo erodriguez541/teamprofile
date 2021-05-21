@@ -10,4 +10,3 @@ class Employee {
         console.log(`Email: ${this.email}`);
       }
 }
-module.exports = Employee;
